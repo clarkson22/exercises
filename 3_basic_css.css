@@ -9,7 +9,7 @@ a:link, a:visited{
     color: var(--basic);
 }
 
-a:hover, a:cisited{
+a:hover, a:visited{
     text-decoration: none;
 }
 
